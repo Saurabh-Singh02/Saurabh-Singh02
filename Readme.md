@@ -58,6 +58,14 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="45" />
+      <br>Git
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Rust" />
       <br>VScode
