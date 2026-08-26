@@ -3,7 +3,6 @@
 
 ### 🚀 **About Me**  
 🔹 **Name:** Saurabh Singh  
-🎓 **Education:** B.C.A. Graduate | Currently pursuing **M.C.A.**  
 💻 **Python(Django) Full-Stack Developer**  
 📢 Passionate about **learning, building, and sharing** in public!  
 
